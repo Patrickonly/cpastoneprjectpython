@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "D:\\CAPSTONE PROJECT\\datasets\\maize trainningsystem - Copy\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "fb3d1f38e3581a7ce292bf13f8cd0a776450ca25d201b079e0c248242ac8fd7b",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
